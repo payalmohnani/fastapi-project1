@@ -1,5 +1,5 @@
 # fastapi-project1
-**"fastapi-project1"** is my first **REST API** backend development project which I created by following the youtube tutorial by @Sanjeev-Thiyagrajan . It is a social media type application which performs basic social media like operations(**CRUD**-based API). 
+**"fastapi-project1"** is my first **REST API** backend development project which I created by following the youtube tutorial by @Sanjeev-Thiyagarajan . It is a social media type application which performs basic social media like operations(**CRUD**-based API). 
 
 It has 2 main parts : Posts and Users.
 
