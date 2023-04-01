@@ -67,7 +67,7 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: ${{secrets.DOCKER_HUB_USERNAME}}/${{DOCKER_REPO}}
+          tags: ${{secrets.DOCKER_HUB_USERNAME}}/${{secrets.DOCKER_REPO}}
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
 
